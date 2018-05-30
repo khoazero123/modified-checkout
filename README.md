@@ -1,5 +1,5 @@
 # Magento2 Modified Checkout Functionality
-## Mod by KhoaZero123 - FGC
+#### (Modified by KhoaZero123 - FGC)
 Many marchent wants to move billing address under shipping address in checkout in magento 2.
 
 This is easiest solution for them. Just download and install this module and done.
