@@ -1,0 +1,7 @@
+/* .checkout-container .payment-method-billing-address {
+	display: none;
+} */
+
+.checkout-payment-method .checkout-billing-address {
+	display: none;
+}
